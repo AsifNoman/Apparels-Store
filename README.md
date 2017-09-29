@@ -21,3 +21,7 @@ Ecommerce based Website designed and developed using Node Js
   </a>
   
 </div>
+
+### License
+
+MIT License
