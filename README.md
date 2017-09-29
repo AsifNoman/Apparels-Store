@@ -2,6 +2,9 @@
 Ecommerce based Website designed and developed using Node Js
 
 # View
-<img src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png" alt="Fjords" width="300" height="200">
-
-<img src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels2.PNG" alt="Fjords" width="300" height="200">
+<div style="margin: 5px; border: 1px solid #ccc;float: left; width: 180px;">
+  <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png">
+    <img style="width: 100%; height: auto;" src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png" alt="apparels1" width="300" height="300">
+  </a>
+  <div style="padding: 15px;text-align: center;">View 1</div>
+</div>
