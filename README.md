@@ -16,7 +16,7 @@ Ecommerce based Website designed and developed using Node Js
 
 <div style="margin: 5px; border: 1px solid #ccc;float: left; width: 180px;">
   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels3.PNG">
-    <img style="width: 100%; height: auto;" src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels2.PNG" alt="apparels1" width="300" height="300">
+    <img style="width: 100%; height: auto;" src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels3.PNG" alt="apparels1" width="300" height="300">
   </a>
 </div>
 
