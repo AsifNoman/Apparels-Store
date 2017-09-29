@@ -1,7 +1,7 @@
-# Apparels-Store
-Ecommerce based Website designed and developed using Node Js
+### About Apparels-Store
+Apparels-Store is an Ecommerce based Website designed and developed using Node Js
 
-# View
+### View
 <div align="center">
   
   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png">
