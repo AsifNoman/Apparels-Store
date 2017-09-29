@@ -5,7 +5,7 @@ Ecommerce based Website designed and developed using Node Js
 <div align="center">
   
   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png">
-    <img src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png" alt="apparels1" width="auto" height="200">
+    <img style="padding:1px;border:1px solid #021a40;" src="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels1.png" alt="apparels1" width="auto" height="200">
   </a>
 
   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/Apparels-Store/master/public/image/apparels5.PNG">
