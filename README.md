@@ -1,2 +1,2 @@
 # Apparels-Store
-Ecommerce Website designed and developed using Node Js
+Ecommerce based Website designed and developed using Node Js
